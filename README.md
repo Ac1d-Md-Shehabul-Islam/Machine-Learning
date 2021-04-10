@@ -1,3 +1,1 @@
-Hello Everyone.
-
-This repository is about applying few basic Machine Learning Algorithms such as Linear Regression, Logistic Regression, K-Nearest Neighbours, Support Vector Machine, Decision Trees and Random Forest on Toy datasets.
+This repository is about applying few basic Machine Learning Algorithms such as Linear Regression, Logistic Regression, K-Nearest Neighbours, Support Vector Machine, Decision Trees, Random Forest and K-Means Clustering on Toy datasets.
